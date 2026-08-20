@@ -1,0 +1,10 @@
+[project]
+name = "Comically large weapons"
+version = "1.0"
+authors = [{ name = "youdietoo" }]
+description = """\
+Changes enemy weapon size.
+"""
+
+[tool.sdkmod]
+name = "Comically large weapons"
