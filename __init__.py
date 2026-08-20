@@ -193,7 +193,7 @@ def scale_weapon_bones(pawn):
 
         found = False
 
-        for bone_index in range(50):
+        for bone_index in range(100):
             try:
                 bone_name = mesh.GetBoneName(bone_index)
             except Exception:
